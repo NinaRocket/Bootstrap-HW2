@@ -1,10 +1,21 @@
 h1{
-    color: #25557c;
+    color: rgb(243, 215, 215);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.navbar-light .navbar-nav .nav-link {
-    color: red;
+.navbar-light .navbar-nav .nav-link{
+    color: rgb(243, 215, 215);
 }
+
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
-    color: rgba(189, 70, 70, 0.9);
+    color: rgba(236, 128, 128, 0.9);
+}
+.img-thumbnail {
+    padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    max-width: 100%;
+    height: auto;
+    float: left;
+    margin: 15px;
 }
