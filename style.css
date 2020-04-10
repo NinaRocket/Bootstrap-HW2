@@ -1,0 +1,10 @@
+h1{
+    color: #25557c;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: red;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(189, 70, 70, 0.9);
+}
