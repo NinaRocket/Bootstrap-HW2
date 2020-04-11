@@ -14,4 +14,15 @@
 
 7. Finally got my .active in my navigation bar to behave. Push to github.
 
+8. Added a personal photo to index.html
+
+9. Added google fonts.
+
+10. Included a bootstrap footer.
+
+11. 
+
+
+
+
 
