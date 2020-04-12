@@ -1,5 +1,10 @@
 # Bootstrap-HW2
 
+
+What is this?
+This is a website that uses responsive bootstrap code. This website
+is a portfolio for Nina Rocket. 
+
 1. Created repository and files: index, contact, portfolio html files as well as a CSS file.
 
 2. Linked bootstrap css in header and js in bottom of body.
