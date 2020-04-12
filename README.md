@@ -3,7 +3,7 @@
 
 What is this?
 This is a website that uses responsive bootstrap code. This website
-is a portfolio for Nina Rocket. 
+is a portfolio for Nina Rocket. This website should be viewable on multiple devices and in different browsers. The following is a list of steps taken to create the website, followed by screenshots of what it should like. 
 
 1. Created repository and files: index, contact, portfolio html files as well as a CSS file.
 
@@ -25,7 +25,23 @@ is a portfolio for Nina Rocket.
 
 10. Included a bootstrap footer.
 
-11. 
+11. Added rows and columns on the portfolio page for future portfolio items. 
+
+This is how it should look on a large screen device:
+
+About:
+
+Portfolio:
+
+Contact:
+
+This is how it should look on a mobile phone:
+
+About:
+
+Portfolio:
+
+Contact: 
 
 
 
