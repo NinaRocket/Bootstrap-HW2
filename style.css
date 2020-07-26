@@ -1,22 +1,44 @@
+html, 
+body{
+    height: 100%;
+    margin: 0; 
+}
 body{
     background-color:rgb(241, 232, 232);
+    /* overflow: visible; */
+    
+}
+.wrapper{
+    min-height: 100%;
+    margin-bottom: -56px;
 }
 .card-title{
     font-family: 'Noto Sans', sans-serif;
     position: relative; 
+}
 
+.about{
+    padding-top: 150px; 
 }
 .card-text{
     margin-top: 25px; 
+   
 }
-.card-body{
-    margin-top: 75px;
+h3{
+    color: rgba(236, 128, 128, 0.9);
+    font-family: 'Clicker Script', cursive;
 }
+
 .placeholder img{
     margin: auto;
 }
 h1{
     color: rgb(243, 215, 215);
+    font-family: 'Clicker Script', cursive;
+}
+#port{
+    text-align: center;
+    color: rgba(236, 128, 128, 0.9);
     font-family: 'Clicker Script', cursive;
 }
 h2{
@@ -54,6 +76,21 @@ h2{
     margin-right: 40px;
     margin-bottom: 60px; 
 }
+
+footer, 
+.push{
+    height: 56px; 
+}
+
+.carousel-caption {
+    max-width: 100%;
+    width:100%;
+    background:white;
+    left: 0;
+    bottom: 0;
+    color:#000000;
+}
+
 @media (max-width: 768px) {
     .img-thumbnail {
         padding: .25rem;
